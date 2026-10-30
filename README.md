@@ -12,6 +12,6 @@ avoiding the black ones, and if a yellow and black star collide with eachother a
 red star will appear, collecting it gives a massive score!
 
 ## 🚦 Running The Project
-  1- Download and extract the .zip file.
-  2- Search for the .exe file inside the folder.
-  3- Run it and have fun!
+  1- Download and extract the .zip file.  
+  2- Search for the .exe file inside the folder.  
+  3- Run it and have fun!  
