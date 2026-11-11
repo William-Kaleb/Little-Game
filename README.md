@@ -14,5 +14,5 @@ red star will appear, collecting it gives a massive score!
 ## 🚦 Running The Project
   1- Open this google drive ---> [LINK](https://drive.google.com/file/d/1IQVP1TCl7_JfG3PKyUu2fVo33Knj0FdX/view?usp=drive_link) <---  
   2- Download and extract the .zip file.  
-  3- Search for the .exe file inside the folder.  
-  4- Run it and have fun!  
+  3- Search for the .exe file inside the folder and run it.  
+  4- Have fun!  
